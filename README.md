@@ -1,1 +1,1 @@
-#### CT005 – Lab05 – Nguyễn Khánh Huy – B2605416 – DI26D2A1
+#### CT005 – Lab05 – Nguyễn Khánh Huy – B2605416 – CT005/D05
